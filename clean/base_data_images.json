@@ -1,11 +1,4 @@
 {
-  "metadata": {
-    "timestamp": "2025-10-29T20:34:10.675223",
-    "total_items": 73,
-    "successful": 73,
-    "failed": 0,
-    "cloudinary_folder": "saigon_attractions"
-  },
   "images": {
     "AC004": {
       "location": "Loan Vo Hostel",
